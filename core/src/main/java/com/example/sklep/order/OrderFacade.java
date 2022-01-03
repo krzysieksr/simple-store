@@ -2,7 +2,6 @@ package com.example.sklep.order;
 
 import com.example.sklep.cart.Cart;
 import com.example.sklep.cart.CartFacade;
-import com.example.sklep.cart.Warehouse;
 import org.springframework.stereotype.Component;
 
 @Component

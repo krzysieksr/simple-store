@@ -3,6 +3,7 @@ package com.example.sklep.cart;
 
 import com.example.sklep.product.Product;
 import com.example.sklep.product.ProductFacade;
+import com.example.sklep.warehouse.Warehouse;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.springframework.stereotype.Component;

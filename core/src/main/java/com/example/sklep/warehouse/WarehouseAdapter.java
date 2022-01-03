@@ -1,4 +1,4 @@
-package com.example.sklep.cart;
+package com.example.sklep.warehouse;
 
 import com.example.common.ProductNotFoundException;
 import com.example.common.TooFewProductAvailableException;

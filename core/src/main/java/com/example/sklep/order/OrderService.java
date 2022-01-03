@@ -4,7 +4,7 @@ import com.example.common.OrderKafka;
 import com.example.common.ProductNotFoundException;
 import com.example.common.TooFewProductAvailableException;
 import com.example.sklep.cart.Cart;
-import com.example.sklep.cart.Warehouse;
+import com.example.sklep.warehouse.Warehouse;
 import com.example.sklep.product.Product;
 import com.example.sklep.product.converters.ProductToProductDTOConv;
 import com.example.sklep.product.dto.ProductDTO;
